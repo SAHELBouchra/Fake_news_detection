@@ -30,17 +30,6 @@ true.zip
 
 ---
 
-## Features
-
-- Load and extract text dataset from ZIP archives  
-- Clean and preprocess text  
-- Convert text into numerical features using **TF-IDF**  
-- Train a **PassiveAggressiveClassifier**  
-- Evaluate accuracy and model performance  
-- Manually test custom user input  
-
----
-
 ## Repository Structure
 
 ```
