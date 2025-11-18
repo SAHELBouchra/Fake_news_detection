@@ -102,6 +102,5 @@ It outputs:
 ## Model Performance
 
 The model achieves strong accuracy on the dataset.  
-All evaluation metrics are available in the notebook.
 
 
